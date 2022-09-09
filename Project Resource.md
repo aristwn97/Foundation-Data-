@@ -10,3 +10,15 @@ However, I have uploaded the project resources to help you practice on your own.
 
 I strongly recommend that you should install Power BI Desktop on your local machine. Then, use these resources to practice what you will learn in this project.
 
+# Additional resources
+## Power BI for Intermediates
+This step-by-step training guide by Soheil Bakhshi and Bruce Anderson formed a huge part of the instruction for this guided project. You can download the guide for [free](https://drive.google.com/file/d/1y8CHa-FpgQVNWCzil_sULFNqih_DIYbr/view)
+
+## Understanding Join Concepts
+You can read and explore join concepts with more examples below:
+
+* Read Power BI – [Seven Types of Table Joins](https://www.powerbi-pro.com/en/power-bi-seven-types-of-table-joins/) 
+* Read this well-detailed guide on Joins in Power BI by [TutorialGateway](https://www.tutorialgateway.org/joins-in-power-bi/)
+
+Make sure to read through articles to build expertise on joins in Power BI. I hope you have an amazing experience reading through it. Thank you!
+
