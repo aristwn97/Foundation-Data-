@@ -4,18 +4,14 @@ Welcome to Prepare, Clean, Transform, and Load Data using Power BI. This is a be
 
 # Guided Project Objectives
 In this course, we are going to focus on two learning objectives:
-
-Prepare and Clean Data using Power BI
-
-Transform and Load Data using Power BI
-
+1. Prepare and Clean Data using Power BI
+2. Transform and Load Data using Power BI
 By the end of this course, you will be able to prepare, clean, transform, and load data using Power BI. You will illustrate these skills using real-world data and you will get to practice these skills on your own.
 
 # Guided Project Structure
 This course is divided into six (6) parts:
 
-Project Overview: This introductory reading material.
-
+1. Project Overview: This introductory reading material.
 Reading: Link to project resources
 
 Additional Reading: Links to additional resources
